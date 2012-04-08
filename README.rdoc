@@ -3,8 +3,9 @@
 Translation magener te ayuda a mantener actualizados los ficheros yml. Solo actualizas en un locale y automaticamente los cambios a los demas locales seran añadidos
 
 == Instalation
------------
 
   gem install translation_manager
 
 == Usage
+
+  rake rake update_translations
